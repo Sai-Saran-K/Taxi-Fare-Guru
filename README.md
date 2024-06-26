@@ -21,4 +21,4 @@ This project aims to predict taxi fare amounts based on various trip attributes 
 
 - **Data Preprocessing**: Includes steps for cleaning the dataset, handling missing values, encoding categorical variables, and feature scaling.
   
-- **Model Training**: Utilizes Jupyter Notebooks (`Taxi_Fare_Prediction.ipynb`) to train and fine-tune the regression models. It covers feature engineering, model selection, hyperparameter tuning, and cross-validation to ensure robust performance.
+- **Model Training**: Utilizes Jupyter Notebooks (`Taxi Fare Guru Total Amount Prediction Challenge`) to train and fine-tune the regression models. It covers feature engineering, model selection, hyperparameter tuning, and cross-validation to ensure robust performance.
